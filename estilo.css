@@ -1,0 +1,147 @@
+body{
+background-image:url(hola.png)
+
+}
+.boton{
+position: absolute;
+  top:-100px;
+  left:350px;
+}
+.boton1{
+	position: absolute;
+  top:-350px;
+  left:-830px;
+}
+.boton2{
+	position: absolute;
+  top:-130px;
+  left:-670px;
+}
+.boton3{
+		position: absolute;
+  top:50px;
+  left:-250px;
+}
+.boton4{
+	position: absolute;
+  top:700px;
+  left:540px;
+}
+.coreano{
+	position: absolute;
+	color:lime;
+   top: 135px;
+   left: 650px;
+   font-family: 'Stick', sans-serif;
+}
+.titulo{
+	position: absolute;
+	color:dimgray;
+   top: 80px;
+   left: 400px;
+   font-family: 'Stick', sans-serif;
+}
+.titulo1{
+	position: absolute;
+	background:silver;
+	width: 300px;
+	height: 100px;
+	left:490px;
+	top:75px;
+}
+.titulo2{
+		position: absolute;
+	background:black;
+	width: 450px;
+	height:110px;
+	left:350px;
+	top:100px;
+}
+.titulo3{
+	position: absolute;
+	background:firebrick;
+	width: 110px;
+	height: 100px;
+	left:420px;
+	top:90px;
+}
+
+.titulo4{
+	position: absolute;
+	background:grey;
+	width:360px;
+	height:130px;
+	left:410px;
+	top:50px;
+}
+.excel{
+position: absolute;
+top:700px;
+left:600px;
+font-family: 'Akaya Kanadaka', cursive;
+color:white;
+}
+.ejemplos{
+	position: absolute;
+top:1400px;
+left:550px;
+font-family: 'Akaya Kanadaka', cursive;
+color:white;
+}
+.excel1
+{
+position: absolute;
+top: 280px;
+left:250px;
+font-family: 'Hachi Maru Pop', cursive;
+color:lime;
+}
+.ejemplos1{
+position: absolute;
+top: 280px;
+left:800px;
+font-family: 'Hachi Maru Pop', cursive;
+color:lime;
+}
+   .j{
+position: absolute;
+background: #F0D6E8; 
+border-left: 5px solid #01DF98;
+top:780px;
+height:250px;
+width:600px ;
+left: 100px;
+font-family: 'Courgette', cursive;
+font-size:29px;
+z-index: 3;
+   }
+   .k{
+   	position: absolute;
+background: #F0D6E8; 
+border-left: 5px solid #01DF98;
+top:1100px;
+height:250px;
+width:600px ;
+left: 100px;
+font-family: 'Courgette', cursive;
+font-size:29px;
+z-index: 3;
+
+   }
+   .m{
+      	position: absolute;
+background: #F0D6E8; 
+border-left: 5px solid #01DF98;
+top:1480px;
+height:300px;
+width:500px ;
+left: 800px;
+font-family: 'Courgette', cursive;
+font-size:29px;
+z-index: 3;	
+   }
+   .i{
+   	position: absolute;
+  top:1300px;
+  left:350px;
+   }
